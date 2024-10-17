@@ -1,5 +1,3 @@
 __pycache__/
 log*
 tensorboard/
-gym_carla.egg-info
-gym_carla
